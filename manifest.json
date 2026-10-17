@@ -1,0 +1,171 @@
+{
+ "created": "2026-10-17T13:28:05",
+ "python": "3.13.16",
+ "packages": {
+  "numpy": "2.1.3",
+  "pandas": "2.2.3",
+  "scipy": "1.16.3",
+  "sklearn": "1.6.1",
+  "torch": "2.11.0+cpu",
+  "matplotlib": "3.10.0",
+  "pykrige": "1.7.3",
+  "geostats_datasets": null,
+  "joblib": "1.6.0",
+  "pyreadr": "0.5.7"
+ },
+ "seed": 42,
+ "files": {
+  "figures/Fig2_datasets.pdf": {
+   "sha256": "cb6a9367384769a716c562d1a2368a6a3e26e6eedbe50afe9edb19ff689f9298",
+   "bytes": 203800
+  },
+  "figures/Fig2_datasets.png": {
+   "sha256": "20764340002e6f9c40ebafc86ec5a9e67b184e7b96c1bcaa8e85d22987ade997",
+   "bytes": 1150531
+  },
+  "figures/Fig3_data.csv": {
+   "sha256": "4a5915615fb581f5a31e9079acfa9f994aecec9557ef13a294d40235ef5e91ac",
+   "bytes": 3597
+  },
+  "figures/Fig3_forest_real_data.pdf": {
+   "sha256": "01fe48259757319bff10019b0670ad4c16a2f7f3923a85c73e472ac65d577e56",
+   "bytes": 15960
+  },
+  "figures/Fig3_forest_real_data.png": {
+   "sha256": "0a8d532375d81a85b8fd4ec753ac680b170ab6c45dab59322efe4e52a1dc182d",
+   "bytes": 165628
+  },
+  "figures/Fig4_data.csv": {
+   "sha256": "0c7ad7ce4562cb64547bda07a704020e957195d5f2d7b0c7fcfe59f836e0f5ee",
+   "bytes": 4414
+  },
+  "figures/Fig4_h9_heatmap.pdf": {
+   "sha256": "63e2584b61f7bf11e2325c2091de66b8149108b0c13e7182a844d2e204bb9d08",
+   "bytes": 59058
+  },
+  "figures/Fig4_h9_heatmap.png": {
+   "sha256": "f20bef2152959bbbf04a8ee4d958303b94788871faa694546ffadd25efa78063",
+   "bytes": 405385
+  },
+  "figures/Fig5_noise_dose.pdf": {
+   "sha256": "539deb725c3477c37ed0b87a55fe86193923653361e8445069d9aba0f6dd0527",
+   "bytes": 20091
+  },
+  "figures/Fig5_noise_dose.png": {
+   "sha256": "b550f182235277606f7559b2d55e8f0796eeb3ea2d789275aff6227edb01c8b3",
+   "bytes": 192096
+  },
+  "figures/Fig6_data.csv": {
+   "sha256": "fce6364d5b8acfcd8ab81e59994a099c65bf15a38733c8f3ff0de5a21ce48f79",
+   "bytes": 971
+  },
+  "figures/Fig6_walker_lake_conditions.pdf": {
+   "sha256": "39cc7c16dd96b9458910bf7d7747275bf217d92dd86c57f4044f6262f5ef7ce8",
+   "bytes": 16596
+  },
+  "figures/Fig6_walker_lake_conditions.png": {
+   "sha256": "a8aa554b1921794f059c95df316a5259366dc7156fb570b8f1dd13f14a0bd9d3",
+   "bytes": 175485
+  },
+  "figures/Fig7_data.csv": {
+   "sha256": "f3217e5a2b211e0142e7bb60c6c35a76af56dab065133f6657234b577c6353a8",
+   "bytes": 702
+  },
+  "figures/Fig7_reps_data.csv": {
+   "sha256": "59d7368f29f13f5bb3434ce0629c61bf2f91f3c6fce5df4261626b24fc48ac87",
+   "bytes": 480
+  },
+  "figures/Fig7_walker_lake_error_map.pdf": {
+   "sha256": "c61a424b3f86540ec7073c2fdcd8b466cd4eaf4bf927d7a467e543a8c2cacf9c",
+   "bytes": 29944
+  },
+  "figures/Fig7_walker_lake_error_map.png": {
+   "sha256": "3334c8e32571adf321c68bae3245938d99c23d88e8a7a6a1420e7898288ae98e",
+   "bytes": 258413
+  },
+  "folds/jura_folds.json": {
+   "sha256": "38fa5fc6d48747efaded8ce400c69188ba5a2742d3b13568d6a957fe9080d6a0",
+   "bytes": 187252
+  },
+  "folds/meuse_folds.json": {
+   "sha256": "7cbba1199c23a592d964b20730f8b1565d97bd93a204421189665bdf322e0d02",
+   "bytes": 73586
+  },
+  "results/h4_wl_summary.csv": {
+   "sha256": "e9d2b874584e37641c035d3981585ad4a314dff91e4110bc2f6e9780571277d9",
+   "bytes": 1203
+  },
+  "results/h4e_wl_summary.csv": {
+   "sha256": "b84c359a1f7dfbc76d21b8991b3614621cd53da790ef12d8c19212ec63c26b1e",
+   "bytes": 737
+  },
+  "results/h5_wl_summary.csv": {
+   "sha256": "c6418ed6a4c5e436e582d3979f7925a9e3ac9df5f0c9d488d14fbc58175e875c",
+   "bytes": 1117
+  },
+  "results/h6_wl_summary.csv": {
+   "sha256": "7112acced762ea1e27ccb268b106e8ab7d73709dfc24baf4d693dc58546adb04",
+   "bytes": 986
+  },
+  "results/h7_summary.csv": {
+   "sha256": "80c93ed4e2842ed2f7db58e186c20cf7a37f72cc51b822668e00b3ef3ae26a54",
+   "bytes": 1479
+  },
+  "results/h8_summary.csv": {
+   "sha256": "34a2ca5da4bf5b4584d891cfeb31ed2c4d03f4826261de943fcaaf8b9d3e5b22",
+   "bytes": 3556
+  },
+  "results/h9_4_tests.csv": {
+   "sha256": "18457b1e3af78326b99276503a73ae4474fabbf6b7acf79de9f950c74fa232e8",
+   "bytes": 3811
+  },
+  "results/h9_tests.csv": {
+   "sha256": "6269c950dbab2a9ac05c43b55ee769235703210318cfb61f5fcd79938a188473",
+   "bytes": 6587
+  },
+  "results/jura_fold_predictions.csv.gz": {
+   "sha256": "6a51560fcf536d5b0bbb4b95047d6b298bd560a9ecdc0aa23ca5d247fa116716",
+   "bytes": 5852230
+  },
+  "results/jura_selection_meta.csv.gz": {
+   "sha256": "abf8373d2cc76f053eee64073958054720b006229b677959d5c9f8d219cf0411",
+   "bytes": 72027
+  },
+  "results/meuse_fold_predictions.csv.gz": {
+   "sha256": "bf39ef8b0f628154a4e552c6659c9974101ed28f5a10cdb700908fc50995ab53",
+   "bytes": 1316299
+  },
+  "results/meuse_selection_meta.csv.gz": {
+   "sha256": "8d7e32b2e7f70d46d207cc4d901b6fbc84b9cb5ebb3a4cf0134b00d7cd64c6a7",
+   "bytes": 43216
+  },
+  "results/syn3_summary.csv": {
+   "sha256": "98098470da60a867aef1f12dffe5f452b0aa5aeed02a097611a3d8e9074be025",
+   "bytes": 10042
+  },
+  "results/syn5_summary.csv": {
+   "sha256": "70af660a65382f3b2a6e13d2d25f9fbcf9c1f88b094dcd16fd1e9aadffc91f48",
+   "bytes": 2549
+  },
+  "results/syn6_kedsel.csv": {
+   "sha256": "d095a0d3d91c47644a778cd5cd4226d503bf74b49aaf457e8873c181f0e222c1",
+   "bytes": 7715
+  },
+  "results/syn6_summary.csv": {
+   "sha256": "eaf75b4e3ad1df400e0c8c8e5a6fb927c9d1c5ca228b18b04340ac815aa0fe4d",
+   "bytes": 6570
+  },
+  "results/walker_lake_classic_predictions.csv.gz": {
+   "sha256": "3cc166d5610510bd58ca37d721f6999d92f51840b33ebdf745d6fbe7d928a6c2",
+   "bytes": 18455008
+  },
+  "tables/Table3_real_data_MAE.csv": {
+   "sha256": "f7171bbfc1a3520c32ccc176c8f7afcf5907c1a3a0df302500b75286401181be",
+   "bytes": 5311
+  },
+  "tables/Table3_real_data_MAE.tex": {
+   "sha256": "d513add666c58cddc27fa93261c05cd6b2f9a7410f1eab4bcb8c189effda2e62",
+   "bytes": 2784
+  }
+ }
+}
