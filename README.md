@@ -1,5 +1,7 @@
 # When do graph neural networks outperform kriging with auxiliary data?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23437648.svg)](https://doi.org/10.5281/zenodo.23437648)
+
 Code, fold-level predictions and figures for the manuscript
 
 > Erarslan, K. *When do graph neural networks outperform kriging with auxiliary data? Noise, auxiliary–latent coupling and the role of hybrids.* (submitted)
@@ -66,7 +68,7 @@ and the method name `Ort` (simple average of GNN-sel and KED-sel). Figures and t
 
 ## Citation
 
-See `CITATION.cff`. Archived release: DOI to be added (Zenodo).
+See `CITATION.cff`. Archived release (code, results and the full raw result folders): Zenodo, [doi:10.5281/zenodo.23437648](https://doi.org/10.5281/zenodo.23437648).
 
 ## Licence
 

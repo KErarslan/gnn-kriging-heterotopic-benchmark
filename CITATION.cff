@@ -9,4 +9,5 @@ authors:
     orcid: "https://orcid.org/0000-0002-1875-4009"
     affiliation: "Kütahya Dumlupınar University, Department of Mining Engineering"
 keywords: [graph neural networks, kriging, kriging with external drift, heterotopic, NN-GLS, benchmark, geostatistics]
-# doi: 10.5281/zenodo.XXXXXXX   (reserved DOI goes here)
+doi: 10.5281/zenodo.23437648
+repository-code: "https://github.com/KErarslan/gnn-kriging-heterotopic-benchmark"
