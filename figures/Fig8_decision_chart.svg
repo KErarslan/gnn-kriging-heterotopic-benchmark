@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="507.628346pt" height="374.456693pt" viewBox="0 0 507.628346 374.456693" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-17T16:07:41.659505</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 374.456693 
+L 507.628346 374.456693 
+L 507.628346 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 100.743307 41.221105 
+L 406.885039 41.221105 
+Q 418.223622 41.221105 418.223622 29.880737 
+L 418.223622 24.210552 
+Q 418.223622 12.870184 406.885039 12.870184 
+L 100.743307 12.870184 
+Q 89.404724 12.870184 89.404724 24.210552 
+L 89.404724 29.880737 
+Q 89.404724 41.221105 100.743307 41.221105 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 253.814173 53.979019 
+L 361.530709 80.912394 
+L 253.814173 107.845768 
+L 146.097638 80.912394 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #f4f4f4; stroke: #222222; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 253.814173 41.221105 
+Q 253.814173 47.458307 253.814173 52.689279 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 255.214173 49.889279 
+L 253.814173 52.689279 
+L 252.414173 49.889279 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 146.097638 80.912394 
+Q 117.751181 80.912394 90.410955 80.912394 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 93.210955 82.312394 
+L 90.410955 80.912394 
+L 93.210955 79.512394 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 89.404724 80.912394 
+Q 89.404724 159.444444 89.404724 236.970264 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 90.804724 234.170264 
+L 89.404724 236.970264 
+L 88.004724 234.170264 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 16.270866 330.400496 
+L 162.538583 330.400496 
+Q 165.940157 330.400496 165.940157 326.998386 
+L 165.940157 243.07966 
+Q 165.940157 239.67755 162.538583 239.67755 
+L 16.270866 239.67755 
+Q 12.869291 239.67755 12.869291 243.07966 
+L 12.869291 326.998386 
+Q 12.869291 330.400496 16.270866 330.400496 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #e8f6f2; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 253.814173 107.845768 
+Q 253.814173 127.549658 253.814173 146.247318 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 255.214173 143.447318 
+L 253.814173 146.247318 
+L 252.414173 143.447318 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 253.814173 148.954604 
+L 367.2 180.140616 
+L 253.814173 211.326629 
+L 140.428346 180.140616 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #f4f4f4; stroke: #222222; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 356.428346 146.119511 
+L 491.35748 146.119511 
+Q 494.759055 146.119511 494.759055 142.717401 
+L 494.759055 89.984688 
+Q 494.759055 86.582578 491.35748 86.582578 
+L 356.428346 86.582578 
+Q 353.026772 86.582578 353.026772 89.984688 
+L 353.026772 142.717401 
+Q 353.026772 146.119511 356.428346 146.119511 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #ffffff; stroke-dasharray: 1.2,0.9; stroke-dashoffset: 0; stroke: #9a9a9a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 367.2 180.140616 
+Q 392.711811 180.140616 417.217391 180.140616 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 414.417391 178.740616 
+L 417.217391 180.140616 
+L 414.417391 181.540616 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 418.223622 180.140616 
+Q 418.223622 209.058555 418.223622 236.970264 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 419.623622 234.170264 
+L 418.223622 236.970264 
+L 416.823622 234.170264 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 345.089764 330.400496 
+L 491.35748 330.400496 
+Q 494.759055 330.400496 494.759055 326.998386 
+L 494.759055 243.07966 
+Q 494.759055 239.67755 491.35748 239.67755 
+L 345.089764 239.67755 
+Q 341.688189 239.67755 341.688189 243.07966 
+L 341.688189 326.998386 
+Q 341.688189 330.400496 345.089764 330.400496 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #fbf1e8; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 253.814173 211.326629 
+Q 253.814173 224.651562 253.814173 236.970264 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 255.214173 234.170264 
+L 253.814173 236.970264 
+L 252.414173 234.170264 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #222222; stroke: #222222; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 180.680315 330.400496 
+L 326.948031 330.400496 
+Q 330.349606 330.400496 330.349606 326.998386 
+L 330.349606 243.07966 
+Q 330.349606 239.67755 326.948031 239.67755 
+L 180.680315 239.67755 
+Q 177.27874 239.67755 177.27874 243.07966 
+L 177.27874 326.998386 
+Q 177.27874 330.400496 180.680315 330.400496 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #e8f2f8; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 16.270866 365.839147 
+L 491.35748 365.839147 
+Q 494.759055 365.839147 494.759055 362.437036 
+L 494.759055 338.055245 
+Q 494.759055 334.653134 491.35748 334.653134 
+L 16.270866 334.653134 
+Q 12.869291 334.653134 12.869291 338.055245 
+L 12.869291 362.437036 
+Q 12.869291 365.839147 16.270866 365.839147 
+z
+" clip-path="url(#p9c04756bd8)" style="fill: #f4f4f4"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 353.026772 134.779143 
+L 338.853543 161.712518 
+" clip-path="url(#p9c04756bd8)" style="fill: none; stroke-dasharray: 1.2,0.9; stroke-dashoffset: 0; stroke: #9a9a9a; stroke-width: 0.6"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 6.4px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(143.023173 24.651644)">Heterotopic prediction: auxiliaries known at every prediction location</text>
+    <text style="font-size: 6.4px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(110.680673 32.971644)">Step 0 — always fit KED (linear and spline drift, selected on inner folds): seconds per fold</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'" transform="translate(201.229454 74.873206)">Q1  Is the target nearly noise-free</text>
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'" transform="translate(208.291158 82.859097)">after the drift? (small relative</text>
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'" transform="translate(206.515923 90.373206)">nugget; e.g. exhaustive fields)</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_17">
+     <path d="M 61.646495 75.019814 
+L 139.84012 75.019814 
+Q 140.77012 75.019814 140.77012 74.089814 
+L 140.77012 67.889329 
+Q 140.77012 66.959329 139.84012 66.959329 
+L 61.646495 66.959329 
+Q 60.716495 66.959329 60.716495 67.889329 
+L 60.716495 74.089814 
+Q 60.716495 75.019814 61.646495 75.019814 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="100.743307" y="72.600361" transform="rotate(-0 100.743307 72.600361)">no — typical field data</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #009e73" x="17.404724" y="249.532603" transform="rotate(-0 17.404724 249.532603)">Keep the kriging framework</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 260.220747)">KED is the reference. Pure GNNs gain little</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 268.455747)">and not reliably: Jura ≈ KED; on Meuse</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 276.690747)">(n = 155) most variants had significantly</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 284.925747)">higher MAE on Zn and Pb. If a neural model</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 293.160747)">is wanted, use a hybrid that keeps kriging:</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 301.627833)">NN-GLS (NN drift under GLS + OK of residual).</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 309.630747)">Never significantly less accurate than KED-lin;</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(17.404724 317.865747)">MAE: Jura −4 to −10 %, Meuse ≈ equal.</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_18">
+     <path d="M 247.845704 131.721413 
+L 259.782642 131.721413 
+Q 260.712642 131.721413 260.712642 130.791413 
+L 260.712642 124.591413 
+Q 260.712642 123.661413 259.782642 123.661413 
+L 247.845704 123.661413 
+Q 246.915704 123.661413 246.915704 124.591413 
+L 246.915704 130.791413 
+Q 246.915704 131.721413 247.845704 131.721413 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="253.814173" y="129.30196" transform="rotate(-0 253.814173 129.30196)">yes</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'" transform="translate(201.126283 174.101429)">Q2  Is the auxiliary coupled to the</text>
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'" transform="translate(210.066876 182.452054)">LEVEL of a latent factor that</text>
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'" transform="translate(226.224173 189.601429)">drives the target?</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 6.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="358.696063" y="96.320791" transform="rotate(-0 358.696063 96.320791)">Examples for Q2</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(358.696063 108.396549)">Walker Lake: U = roughness of the surface</text>
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(358.696063 116.498424)">whose elevation scales V.</text>
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(358.696063 123.476549)">Mining: a lithology or alteration proxy that</text>
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(358.696063 131.016549)">is high where the background grade of the</text>
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(358.696063 138.556549)">ore domain is high.</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_19">
+     <path d="M 389.577988 174.247794 
+L 401.514925 174.247794 
+Q 402.444925 174.247794 402.444925 173.317794 
+L 402.444925 167.117794 
+Q 402.444925 166.187794 401.514925 166.187794 
+L 389.577988 166.187794 
+Q 388.647988 166.187794 388.647988 167.117794 
+L 388.647988 173.317794 
+Q 388.647988 174.247794 389.577988 174.247794 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="395.546457" y="171.828341" transform="rotate(-0 395.546457 171.828341)">yes</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="346.223622" y="249.532603" transform="rotate(-0 346.223622 249.532603)">Learned kriging can outperform KED</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 260.811685)">GNN-K: 30 % lower MAE than KED-sel on</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 268.455747)">Walker Lake (ratio 0.70, 5 random samples).</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 276.690747)">Gain sits where the latent factor is high</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 285.157833)">(Q4 ratio ≈ 0.6); elsewhere no consistent</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 293.160747)">advantage. Smaller under clustered</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 301.395747)">sampling (0.82). Breaking the level coupling</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 309.630747)">removes ≈ 2/3 of the gain. Still validate</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(346.223622 317.865747)">against KED on inner folds.</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_20">
+     <path d="M 230.304064 228.681804 
+L 277.324283 228.681804 
+Q 278.254283 228.681804 278.254283 227.751804 
+L 278.254283 221.55132 
+Q 278.254283 220.62132 277.324283 220.62132 
+L 230.304064 220.62132 
+Q 229.374064 220.62132 229.374064 221.55132 
+L 229.374064 227.751804 
+Q 229.374064 228.681804 230.304064 228.681804 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="253.814173" y="226.262351" transform="rotate(-0 253.814173 226.262351)">no / unknown</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0072b2" x="181.814173" y="249.532603" transform="rotate(-0 181.814173 249.532603)">KED is enough</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 260.220747)">With a correctly specified drift and no</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 268.455747)">coupling, KED-sel had the lower MAE in</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 276.690747)">40/40 synthetic runs; with the coupling</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 284.925747)">broken on Walker Lake (fully rotated),</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 293.511974)">GNN-K / KED-sel MAE ratio = 1.14.</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 299.712529)"/>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 309.630747)">Noise changes the size of the difference,</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(181.814173 318.456685)">not its direction.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(18.538583 343.694359)">Computing time per outer fold, nested selection included (one CPU core): kriging 0.2–3.5 s · KED-sel 1–7 s · NN-GLS 27–43 s ·</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(18.538583 351.929359)">GNN-K 53–97 s · GNN-K-L 187–418 s. Full design with all 7 neural candidates (GNN-sel): ≈ 13 h (Meuse), ≈ 26 h (Jura); KED-sel: minutes.</text>
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(18.538583 360.164359)">Evidence base: synthetic fields, Walker Lake, Jura, Meuse. The questions are qualitative; no thresholds are calibrated.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9c04756bd8">
+   <rect x="7.2" y="7.2" width="493.228346" height="360.056693"/>
+  </clipPath>
+ </defs>
+</svg>
