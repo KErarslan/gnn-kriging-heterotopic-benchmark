@@ -36,7 +36,8 @@ figures/     Figures 1–8 (PDF + PNG; Figs 1 and 8 also SVG), numbered as in th
 tables/      real-data MAE table with SDs (Table 2 of the manuscript; file name Table3_real_data_MAE.*)
 folds/       outer/inner fold indices (repeated 5 × 5 CV, 4 inner folds)
 docs/        H9 pre-registration record (Turkish original + English translation)
-scripts/     make_schematics_v4.py – draws Figures 1 and 8 (no data needed)
+scripts/     make_schematics_v5.py – draws Figures 1 and 8 (no data needed);
+             review_tables_v1.py – MAE/RMSE and block-bootstrap ratio tables (Supplementary Tables S4f, S6h) from results/
 data/        raw data copies (GPL ≥ 2) + SHA256SUMS
 manifest.json  SHA-256 of every file + package versions
 ```
@@ -56,14 +57,15 @@ Environment: Python 3.13 (Google Colab); exact package versions in `requirements
 
 A few keys are kept exactly as stored on disk so that the checkpoints remain valid: the Walker Lake proxy conditions
 `yeniden` (reconstructed), `döndürülmüş` (fully rotated), `ayrıntı-döndürülmüş` (detail rotated), `düzey-döndürülmüş` (level rotated),
-and the method name `Ort` (simple average of GNN-sel and KED-sel). Figures and tables use the English labels.
+and the method name `Ort` (simple average of GNN-sel and KED-sel; called **Avg** in the manuscript). Figures and tables use the English labels.
 
 ## Transparency
 
 * Stages were added sequentially; what had been seen before each stage, and every withdrawn claim,
   is logged in the manuscript's Supplementary Material (Table S1 and Section S2).
-* H9 (equal effort on the neural side) was pre-declared before any H9 error was inspected
-  (`docs/H9_preregistration_TR_v1.md`; English translation in `docs/H9_preregistration_EN_v1.md`). Post-hoc analyses (H9-4) are labelled as such.
+* H9 (equal effort on the neural side) was specified in a dated internal record before any H9 error was inspected
+  (`docs/H9_preregistration_TR_v1.md`; English translation in `docs/H9_preregistration_EN_v1.md`). The record was not deposited
+  with an external registry. Post-hoc analyses (H9-4) are labelled as such.
 * A sign error in the pre-declared M3 hypothesis is disclosed in the notebook (correction note after cell 69).
 
 ## Citation
